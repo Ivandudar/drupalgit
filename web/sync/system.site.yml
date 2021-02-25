@@ -1,0 +1,14 @@
+uuid: 68ddb73c-6661-4795-b176-d4609a9a6b08
+name: test
+mail: Vanyadudar00@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE

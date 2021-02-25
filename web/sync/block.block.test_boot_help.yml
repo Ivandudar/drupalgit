@@ -1,0 +1,22 @@
+uuid: c8a28b91-d171-4b40-98f5-a7c8c0ce3dba
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - test_boot
+_core:
+  default_config_hash: 8I8iACSa0sKO3k3jlvUG1ge52rfcKX7USJAQYnzuBgg
+id: test_boot_help
+theme: test_boot
+region: content
+weight: -30
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

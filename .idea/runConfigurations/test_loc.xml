@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="test.loc" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" activateToolWindowBeforeRun="false" singleton="false" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" server_name="test.loc" start_url="http://test.loc">
+    <method v="2" />
+  </configuration>
+</component>

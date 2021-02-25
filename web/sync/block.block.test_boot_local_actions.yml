@@ -1,0 +1,20 @@
+uuid: 6f87cf6a-f69f-4f89-8c0f-94527bb44b18
+langcode: en
+status: true
+dependencies:
+  theme:
+    - test_boot
+_core:
+  default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
+id: test_boot_local_actions
+theme: test_boot
+region: content
+weight: -20
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  provider: core
+  label_display: '0'
+visibility: {  }
